@@ -1,1 +1,1 @@
-module.exports = 'ECOBASE_SENA'
+module.exports = 'Alcance y procedimiento de la valoración de apoyos'
