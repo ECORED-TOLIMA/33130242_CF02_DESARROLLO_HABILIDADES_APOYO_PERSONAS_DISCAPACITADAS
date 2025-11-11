@@ -54,10 +54,6 @@
             p.mb-0 Esto puede incluir acompañamiento de otras personas o uso de tecnologías para garantizar que las personas con discapacidad estén informadas y tengan pleno conocimiento de lo que ocurre durante el proceso de valoración.
           div(titulo="Elección libre de apoyos (red de apoyos)")
             p.mb-0 Permite identificar a las personas más cercanas —ya sea por vínculos de parentesco definidos por la ley, por lazos de amistad o por relaciones de confianza— que puedan brindar acompañamiento. En todo caso, será la persona con discapacidad quien elija libremente a quien le apoye en la toma de decisiones.
-          div(titulo="Ejercicio pleno de derechos como titulares de su patrimonio")
-            p.mb-0 Se reconoce que las personas con discapacidad son titulares de su patrimonio, por lo que tienen el derecho de administrar sus bienes, celebrar contratos y ejercer plenamente sus derechos y obligaciones.
-          div(titulo="Derecho de las personas con discapacidad a formar parte de una familia")
-            p.mb-0 Incluye decidir si contraer matrimonio, tener hijos o hijes, adoptar, entre otros aspectos fundamentales de la autonomía personal.
 
     p.mb-4 En lo referente al procedimiento establecido en el Capítulo 6 del Decreto 487 de 2022, artículos 2.8.2.6.1 al 2.8.2.6.11, los pasos que deben cumplirse para el trámite de la valoración de apoyos, tanto en entidades públicas como privadas, son los siguientes:
     
