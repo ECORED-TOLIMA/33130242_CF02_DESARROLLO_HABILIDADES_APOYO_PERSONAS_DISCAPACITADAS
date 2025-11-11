@@ -12,7 +12,7 @@
       .col-lg-8.order-lg-1.order-2(data-aos="zoom-in")
         p Seguramente, en el ejercicio de la labor como persona facilitadora de procesos de valoración de apoyos, pueden surgir diversas inquietudes relacionadas con el procedimiento. Algunas de ellas podrían ser:
         .bloque-texto-c.color-primario-oscuro.tarjeta.p-3
-          .row.justify-content-center.align-items-center
+          .row.justify-content-center.align-items-center.mb-0
             .col-lg-2.col-6.mb-lg-0.d-none.d-lg-block.mb-4(data-aos="zoom-in")
               figure
                 img.img-fluid(src="@/assets/curso/temas/intro/img2.svg" alt="Imagen decorativa")

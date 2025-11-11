@@ -18,7 +18,7 @@
     #t_4_1.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2 4.1 Asistencias personales y apoyos humanos
     
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-4
       .col-lg-8.order-2.order-lg-1.mb-4.mb-lg-0        
         p(data-aos="fade-left") En el proceso de valoración de apoyos, es fundamental considerar los diversos tipos de asistencias personales y apoyos humanos que las personas con discapacidad pueden requerir. El grado de asistencia personal varía según las necesidades individuales. Algunas personas requieren apoyo humano para actividades específicas como la higiene personal o la administración de medicamentos, en momentos puntuales del día. Otras necesitan acompañamiento más cercano, que puede incluir apoyo en la alimentación, labores de aseo, desplazamientos o participación en otras actividades cotidianas. Este tipo de asistencia puede extenderse durante varias horas al día y brindarse directamente en el hogar. También existen personas que requieren acompañamiento permanente, que incluye asistencia en todas las actividades básicas de la vida diaria, como la higiene, la alimentación, la movilidad, el aprendizaje y la comunicación.
         .row.align-items-center.bloque-texto-c.color-primario-claro.p-4.mb-4
@@ -30,7 +30,7 @@
       .col-lg-4.col-10.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="zoom-in")
         figure
           img(src='@/assets/curso/temas/tema4/img2.png', alt='Imagen decorativa')
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center
       .col-lg-1.d-none.d-lg-block(data-aos="zoom-in")
         figure
           img(src='@/assets/curso/temas/tema4/img4.svg', alt='Imagen decorativa')
@@ -42,10 +42,9 @@
     .bloque-texto-c.bloque-texto-c.color-primario-medio.tarjeta
       .row.justify-content-center.align-items-center
         .col-lg-8
+          div(style="width: 7%;margin-left: 3%;margin-top: 3%;")
+            img(src='@/assets/curso/temas/tema4/img6.svg', alt='Imagen decorativa')
           .row.align-items-center.p-4
-            .col-lg-1.d-none.d-lg-block.mb-4
-              figure
-                img(src='@/assets/curso/temas/tema4/img6.svg', alt='Imagen decorativa')
             p.mb-0 La valoración de apoyos también debe ajustarse a otras formas de asistencia, como las ayudas vivas. Por ejemplo, una persona ciega que cuenta con un perro guía, o una persona con discapacidad física que recibe apoyo de un animal entrenado para facilitar su movilidad, elección de objetos o como compañía emocional.
         .col-lg-4.col-10.mb-4.mb-lg-0
           figure

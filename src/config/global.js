@@ -82,8 +82,26 @@ export default {
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Síntesis del componente formativo',
+        titulo: '3.	Descripción del proceso técnico de la valoración de apoyos',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Contenido de la solicitud',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Preparación o aprestamiento para la valoración de apoyos',
+            hash: 't_3_2',
+          },
+          {
+            numero: '3.3',
+            titulo:
+              'Entrevista previa: consideraciones y recomendaciones para tener en cuenta',
+            hash: 't_3_3',
+          },
+        ],
       },
       {
         nombreRuta: 'tema4',
@@ -159,7 +177,7 @@ export default {
     {
       tema: 'Valoración de apoyos',
       referencia:
-        'Correa Montoya, L. (2017). Adjudicar desde el lente de la Convención sobre los derechos de las personas con discapacidad: Algunos retos de la jurisprudencia constitucional colombiana. DescLAB.',
+        'Correa Montoya, L. (2017). <em>Adjudicar desde el lente de la Convención sobre los derechos de las personas con discapacidad: Algunos retos de la jurisprudencia constitucional colombiana</em>. DescLAB.',
       tipo: 'Libro en línea',
       link:
         'https://www.desclab.com/_files/ugd/e0e620_b2bf79eec03c4f3086b42029eb7b8885.pdf',
@@ -167,7 +185,7 @@ export default {
     {
       tema: 'Ajustes razonables',
       referencia:
-        'Fondo de Población de las Naciones Unidas (UNFPA). (s.f.). Sistemas de apoyos, ajustes razonables y ajustes de procedimiento: Definiciones y recomendaciones para su implementación en la Argentina. ',
+        'Fondo de Población de las Naciones Unidas (UNFPA). (s.f.). <em>Sistemas de apoyos, ajustes razonables y ajustes de procedimiento: Definiciones y recomendaciones para su implementación en la Argentina.</em> ',
       tipo: 'Libro en línea',
       link:
         'https://argentina.unfpa.org/sites/default/files/pub-pdf/sistemas-de-apoyo-ajustes-razonables.pdf',
@@ -223,81 +241,82 @@ export default {
   referencias: [
     {
       referencia:
-        'Asamblea General de las Naciones Unidas. (2006). Convención sobre los Derechos de las Personas con Discapacidad.',
+        'Asamblea General de las Naciones Unidas. (2006). <em>Convención sobre los Derechos de las Personas con Discapacidad.</em>',
       link: '',
     },
     {
       referencia:
-        'Congreso de Colombia. (2009). Ley 1346 de 2009: Por medio de la cual se aprueba la “Convención sobre los Derechos de las Personas con Discapacidad”. Diario Oficial No. 47.427.',
+        'Congreso de Colombia. (2009). Ley 1346 de 2009: <em>Por medio de la cual se aprueba la “Convención sobre los Derechos de las Personas con Discapacidad”</em>. Diario Oficial No. 47.427.',
       link: '',
     },
     {
       referencia:
-        'Congreso de Colombia. (2011). Ley 1448 de 2011: Por la cual se dictan medidas de atención, asistencia y reparación integral a las víctimas del conflicto armado interno.',
+        'Congreso de Colombia. (2011). Ley 1448 de 2011: <em>Por la cual se dictan medidas de atención, asistencia y reparación integral a las víctimas del conflicto armado interno.</em>',
       link:
         'https://www.unidadvictimas.gov.co/documentos_bibliotec/ley-1448-de-2011-2/',
     },
     {
       referencia:
-        'Congreso de Colombia. (2019). Ley 1996 de 2019: Por medio de la cual se establece el régimen para el ejercicio de la capacidad legal de las personas con discapacidad mayores de edad. Diario Oficial No. 51.057.',
+        'Congreso de Colombia. (2019). Ley 1996 de 2019: <em>Por medio de la cual se establece el régimen para el ejercicio de la capacidad legal de las personas con discapacidad mayores de edad.</em> Diario Oficial No. 51.057.',
       link:
         'https://www.secretariasenado.gov.co/senado/basedoc/ley_1996_2019.html',
     },
     {
       referencia:
-        'Congreso de Colombia. (2023). Ley 2297 de 2023: Por medio de la cual se establecen medidas en beneficio de la autonomía de las personas con discapacidad y sus cuidadores. Diario Oficial No. 52.440.',
+        'Congreso de Colombia. (2023). Ley 2297 de 2023: <em>Por medio de la cual se establecen medidas en beneficio de la autonomía de las personas con discapacidad y sus cuidadores</em>. Diario Oficial No. 52.440.',
       link:
         'https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=143777',
     },
     {
       referencia:
-        'Consejería Presidencial para la Participación de las Personas con Discapacidad. (2020). Valorar apoyos para tomar decisiones: Lineamientos y protocolo nacional para la valoración de apoyos en el marco de la Ley 1996 de 2019.',
+        'Consejería Presidencial para la Participación de las Personas con Discapacidad. (2020). <em>Valorar apoyos para tomar decisiones: Lineamientos y protocolo nacional para la valoración de apoyos en el marco de la Ley 1996 de 2019.</em>',
       link:
         'https://dapre.presidencia.gov.co/AtencionCiudadana/Documents/Lineamientos-Valoraciones-apoyo.pdf',
     },
     {
       referencia:
-        'Corte Constitucional de Colombia. (2004). Sentencia T-025 de 2004.',
+        'Corte Constitucional de Colombia. (2004). <em>Sentencia T-025 de 2004.</em>',
       link: '',
     },
     {
       referencia:
-        'Corte Constitucional de Colombia. (2009). Auto 006 de 2009. M. P. Manuel José Cepeda Espinosa.',
+        'Corte Constitucional de Colombia. (2009). <em>Auto 006 de 2009.</em> M. P. Manuel José Cepeda Espinosa.',
       link:
         'https://www.corteconstitucional.gov.co/relatoria/autos/2009/a006-09.htm',
     },
     {
       referencia:
-        'Corte Constitucional de Colombia. (2010). Sentencia C-293 de 2010. M. P. Nilson Pinilla Pinilla.',
+        'Corte Constitucional de Colombia. (2010). <em>Sentencia C-293 de 2010. M. P</em>. Nilson Pinilla Pinilla.',
       link:
         'https://www.corteconstitucional.gov.co/relatoria/2010/c-293-10.htm',
     },
     {
       referencia:
-        'Corte Constitucional de Colombia. (2014). Auto 173 de 2014. M. P. Luis Ernesto Vargas Silva.',
+        'Corte Constitucional de Colombia. (2014). <em>Auto 173 de 2014. M. P</em>. Luis Ernesto Vargas Silva.',
       link:
         'https://www.corteconstitucional.gov.co/relatoria/autos/2014/a173-14.htm',
     },
     {
       referencia:
-        'Corte Constitucional de Colombia. (2016). Sentencia C-182 de 2016. M. P. Gloria Stella Ortiz Delgado.',
+        'Corte Constitucional de Colombia. (2016). <em>Sentencia C-182 de 2016. M. P.</em> Gloria Stella Ortiz Delgado.',
       link:
         'https://www.corteconstitucional.gov.co/relatoria/2016/c-182-16.htm',
     },
     {
       referencia:
-        'Presidencia de la República de Colombia. (2020). Decreto 1429 de 2020: Por el cual se reglamentan artículos de la Ley 1996 de 2019.',
+        'Presidencia de la República de Colombia. (2020). <em>Decreto 1429 de 2020: Por el cual se reglamentan artículos de la Ley 1996 de 2019.</em>',
       link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=144938',
     },
     {
       referencia:
-        'Presidencia de la República de Colombia. (2022). Decreto 487 de 2022: Reglamenta la prestación del servicio de valoración de apoyos.',
+        'Presidencia de la República de Colombia. (2022). <em>Decreto 487 de 2022: Reglamenta la prestación del servicio de valoración de apoyos.</em>',
       link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=185226',
     },
     {
-      referencia: 'Unidad para las Víctimas. (2017). Resolución 589 de 2017.',
+      referencia:
+        'Unidad para las Víctimas. (2017). <em>Resolución 589 de 2017.</em>',
       link:
         'https://www.suin-juriscol.gov.co/viewDocument.asp?ruta=Resolucion/30042395',
     },
@@ -388,6 +407,11 @@ export default {
         },
         {
           nombre: 'José Jaime Luis Tang Pinzón',
+          cargo: 'Diseñador web',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'Juan Daniel Polanco Muñoz',
           cargo: 'Diseñador web',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },

@@ -20,17 +20,21 @@
         figure
           img.img-fluid(src="@/assets/curso/temas/tema1/img1.png" alt="Imagen decorativa")
     
-    .titulo-sexto.color-acento-contenido.offset-1(data-aos="fade-left")
-      h5 Figura 1.
-      i Antecedentes de la valoración de apoyos
+    .row.justify-content-center.align-items-center
+      .col-lg-10(data-aos="zoom-in")
+        .titulo-sexto.color-acento-contenido(data-aos="fade-left")
+          h5 Figura 1.
+          i Antecedentes de la valoración de apoyos
 
     .row.justify-content-center.align-items-center
-      .col-lg-10.movil(data-aos="zoom-in")
-        figure
-          img(src='@/assets/curso/temas/tema1/img3-1.svg', alt='Descripción: La imagen es una ilustración que muestra una escena en un ambiente interior, posiblemente una oficina. En el lado izquierdo, hay una mujer de pie que sostiene una tableta en una mano, vestida con una blusa azul claro y pantalones negros. Cerca de ella hay un pequeño florero azul con una planta alargada. A la izquierda de la ilustración, domina un enorme portapapeles de color blanco con un borde azul donde aparecen varias líneas y casillas marcadas con un símbolo de verificación en azul. En el centro, un hombre está sentado en una silla frente a una mesa. Él sostiene un teléfono móvil en una mano mientras observa una computadora portátil colocada encima de la mesa. El hombre viste una camiseta negra y pantalones azules. A la derecha de la mesa, hay otra mujer inclinada hacia adelante, aparentemente interactuando con el hombre. Lleva una camiseta azul y pantalones negros, y parece estar señalando hacia la computadora o dialogando con él. En el fondo, se ve una ventana con persianas blancas y varios documentos dispersos flotando ligeramente, indicando una atmósfera de trabajo activa. También hay un reloj circular azul y blanco colgado en la pared, que refuerza el ambiente organizado de oficina. Además, aparecen burbujas de diálogo en color azul, sugiriendo comunicación entre las personas presentes. La escena transmite un ambiente profesional y colaborativo, con un enfoque en tareas organizadas y trabajo en equipo. Los colores utilizados (azul, blanco y negro) refuerzan una sensación de calma, seriedad y productividad.')
-      .col-lg-10.desktop(data-aos="zoom-in")
-        figure
-          img(src='@/assets/curso/temas/tema1/img3.svg', alt='Descripción: La imagen es una ilustración que muestra una escena en un ambiente interior, posiblemente una oficina. En el lado izquierdo, hay una mujer de pie que sostiene una tableta en una mano, vestida con una blusa azul claro y pantalones negros. Cerca de ella hay un pequeño florero azul con una planta alargada. A la izquierda de la ilustración, domina un enorme portapapeles de color blanco con un borde azul donde aparecen varias líneas y casillas marcadas con un símbolo de verificación en azul. En el centro, un hombre está sentado en una silla frente a una mesa. Él sostiene un teléfono móvil en una mano mientras observa una computadora portátil colocada encima de la mesa. El hombre viste una camiseta negra y pantalones azules. A la derecha de la mesa, hay otra mujer inclinada hacia adelante, aparentemente interactuando con el hombre. Lleva una camiseta azul y pantalones negros, y parece estar señalando hacia la computadora o dialogando con él. En el fondo, se ve una ventana con persianas blancas y varios documentos dispersos flotando ligeramente, indicando una atmósfera de trabajo activa. También hay un reloj circular azul y blanco colgado en la pared, que refuerza el ambiente organizado de oficina. Además, aparecen burbujas de diálogo en color azul, sugiriendo comunicación entre las personas presentes. La escena transmite un ambiente profesional y colaborativo, con un enfoque en tareas organizadas y trabajo en equipo. Los colores utilizados (azul, blanco y negro) refuerzan una sensación de calma, seriedad y productividad.')
+      .col-lg-10.tarjeta--BG12.tarjeta.p-4
+        .row.justify-content-center.align-items-center
+          .col-lg-10.movil(data-aos="zoom-in")
+            figure
+              img(src='@/assets/curso/temas/tema1/img3-1.svg', alt='Descripción: La imagen es una ilustración que muestra una escena en un ambiente interior, posiblemente una oficina. En el lado izquierdo, hay una mujer de pie que sostiene una tableta en una mano, vestida con una blusa azul claro y pantalones negros. Cerca de ella hay un pequeño florero azul con una planta alargada. A la izquierda de la ilustración, domina un enorme portapapeles de color blanco con un borde azul donde aparecen varias líneas y casillas marcadas con un símbolo de verificación en azul. En el centro, un hombre está sentado en una silla frente a una mesa. Él sostiene un teléfono móvil en una mano mientras observa una computadora portátil colocada encima de la mesa. El hombre viste una camiseta negra y pantalones azules. A la derecha de la mesa, hay otra mujer inclinada hacia adelante, aparentemente interactuando con el hombre. Lleva una camiseta azul y pantalones negros, y parece estar señalando hacia la computadora o dialogando con él. En el fondo, se ve una ventana con persianas blancas y varios documentos dispersos flotando ligeramente, indicando una atmósfera de trabajo activa. También hay un reloj circular azul y blanco colgado en la pared, que refuerza el ambiente organizado de oficina. Además, aparecen burbujas de diálogo en color azul, sugiriendo comunicación entre las personas presentes. La escena transmite un ambiente profesional y colaborativo, con un enfoque en tareas organizadas y trabajo en equipo. Los colores utilizados (azul, blanco y negro) refuerzan una sensación de calma, seriedad y productividad.')
+          .col-lg-10.desktop(data-aos="zoom-in")
+            figure
+              img(src='@/assets/curso/temas/tema1/img3.svg', alt='Descripción: La imagen es una ilustración que muestra una escena en un ambiente interior, posiblemente una oficina. En el lado izquierdo, hay una mujer de pie que sostiene una tableta en una mano, vestida con una blusa azul claro y pantalones negros. Cerca de ella hay un pequeño florero azul con una planta alargada. A la izquierda de la ilustración, domina un enorme portapapeles de color blanco con un borde azul donde aparecen varias líneas y casillas marcadas con un símbolo de verificación en azul. En el centro, un hombre está sentado en una silla frente a una mesa. Él sostiene un teléfono móvil en una mano mientras observa una computadora portátil colocada encima de la mesa. El hombre viste una camiseta negra y pantalones azules. A la derecha de la mesa, hay otra mujer inclinada hacia adelante, aparentemente interactuando con el hombre. Lleva una camiseta azul y pantalones negros, y parece estar señalando hacia la computadora o dialogando con él. En el fondo, se ve una ventana con persianas blancas y varios documentos dispersos flotando ligeramente, indicando una atmósfera de trabajo activa. También hay un reloj circular azul y blanco colgado en la pared, que refuerza el ambiente organizado de oficina. Además, aparecen burbujas de diálogo en color azul, sugiriendo comunicación entre las personas presentes. La escena transmite un ambiente profesional y colaborativo, con un enfoque en tareas organizadas y trabajo en equipo. Los colores utilizados (azul, blanco y negro) refuerzan una sensación de calma, seriedad y productividad.')
 
 
     separador
@@ -114,7 +118,7 @@
       .bloque-texto-g__texto.p-4
         p.mb-0 Este procedimiento surge como un mandato específico de la Corte Constitucional, ante la ausencia, en ese momento, de una alternativa que regulara de manera clara los mecanismos para que las personas con discapacidad pudieran decidir sobre su futuro, recibir recursos económicos o administrarlos, ya sea de forma directa o con el apoyo de una persona de confianza. Para el año 2017, este protocolo resultaba pertinente como medida para contrarrestar el estado de cosas inconstitucional que afectaba a esta población.
 
-    p Actualmente, la Ley 1996 de 2019 constituye el mecanismo general que permite a las personas con discapacidad acceder a la valoración de apoyos, así como formalizar otros instrumentos jurídicos, como el acuerdo de apoyos o la directriz anticipada.
+    p.mb-0 Actualmente, la Ley 1996 de 2019 constituye el mecanismo general que permite a las personas con discapacidad acceder a la valoración de apoyos, así como formalizar otros instrumentos jurídicos, como el acuerdo de apoyos o la directriz anticipada.
 
     separador
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-left")
@@ -122,7 +126,7 @@
     
     p.mb-4 A partir del contexto anterior, es fundamental que quienes facilitan procesos de valoración de apoyos conozcan estos antecedentes. A continuación, se presenta una tabla que muestra cronológicamente su desarrollo, de acuerdo con lo planteado en los planteamientos previos:
 
-    .titulo-sexto.color-acento-contenido.offset-1(data-aos="fade-left")
+    .titulo-sexto.color-acento-contenido.offset-0.offset-lg-1(data-aos="fade-left")
       h5 Tabla 1.
       i Antecedentes de la valoración de apoyos
     .row.justify-content-center.align-items-center.mb-5

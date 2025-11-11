@@ -7,17 +7,19 @@
         span 2
       h1 Concepto de la valoración de apoyo
 
-    .titulo-sexto.color-acento-contenido.offset-1(data-aos="fade-left")
+    .titulo-sexto.color-acento-contenido.offset-0.offset-lg-1(data-aos="fade-left")
       h5 Figura 2.
       i Concepto de la valoración de apoyo
 
-    .row.justify-content-center.align-items-center.mb-4
-      .col-lg-10.movil(data-aos="zoom-in")
-        figure
-          img(src='@/assets/curso/temas/tema2/img1_1.svg', alt='Descripción: En la imagen, se observa una escena ilustrada en interiores con tres personas interactuando. A la izquierda, se encuentra un hombre joven sentado en una silla de ruedas de color azul claro con detalles en gris, que viste una camiseta azul y pantalones oscuros. A su lado derecho está una mujer joven sentada en una silla sencilla; ella lleva una blusa color rosa claro y una falda azul larga que cubre sus piernas. Ambos parecen estar conversando con un hombre que está a la derecha y que está sentado en una silla roja, mientras sostiene un papel en su mano izquierda y gesticula con su mano derecha. Este hombre viste una camisa blanca, un chaleco púrpura oscuro y pantalones azules. Encima de los tres personajes hay globos de diálogo ilustrados: sobre el hombre en silla de ruedas y la mujer hay signos de interrogación en color azul que indican que están haciendo preguntas, mientras que encima del hombre de la derecha aparece un signo de exclamación en azul, sugiriendo que él está respondiendo o explicando algo. El fondo de la imagen es blanco con formas abstractas curvas en tonos grises claros, creando una atmósfera limpia y profesional. La escena refleja un diálogo o consulta, y transmite una atmósfera seria pero colaborativa. Los colores predominantes son azules, rosas, y blancos, con trazos que denotan simplicidad y claridad visual.')
-      .col-lg-10.desktop(data-aos="zoom-in")
-        figure
-          img(src='@/assets/curso/temas/tema2/img1.svg', alt='Descripción: En la imagen, se observa una escena ilustrada en interiores con tres personas interactuando. A la izquierda, se encuentra un hombre joven sentado en una silla de ruedas de color azul claro con detalles en gris, que viste una camiseta azul y pantalones oscuros. A su lado derecho está una mujer joven sentada en una silla sencilla; ella lleva una blusa color rosa claro y una falda azul larga que cubre sus piernas. Ambos parecen estar conversando con un hombre que está a la derecha y que está sentado en una silla roja, mientras sostiene un papel en su mano izquierda y gesticula con su mano derecha. Este hombre viste una camisa blanca, un chaleco púrpura oscuro y pantalones azules. Encima de los tres personajes hay globos de diálogo ilustrados: sobre el hombre en silla de ruedas y la mujer hay signos de interrogación en color azul que indican que están haciendo preguntas, mientras que encima del hombre de la derecha aparece un signo de exclamación en azul, sugiriendo que él está respondiendo o explicando algo. El fondo de la imagen es blanco con formas abstractas curvas en tonos grises claros, creando una atmósfera limpia y profesional. La escena refleja un diálogo o consulta, y transmite una atmósfera seria pero colaborativa. Los colores predominantes son azules, rosas, y blancos, con trazos que denotan simplicidad y claridad visual.')
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-10.tarjeta--BG12.tarjeta.p-4
+        .row.justify-content-center.align-items-center
+          .col-lg-10.movil(data-aos="zoom-in")
+            figure
+              img(src='@/assets/curso/temas/tema2/img1_1.svg', alt='Descripción: En la imagen, se observa una escena ilustrada en interiores con tres personas interactuando. A la izquierda, se encuentra un hombre joven sentado en una silla de ruedas de color azul claro con detalles en gris, que viste una camiseta azul y pantalones oscuros. A su lado derecho está una mujer joven sentada en una silla sencilla; ella lleva una blusa color rosa claro y una falda azul larga que cubre sus piernas. Ambos parecen estar conversando con un hombre que está a la derecha y que está sentado en una silla roja, mientras sostiene un papel en su mano izquierda y gesticula con su mano derecha. Este hombre viste una camisa blanca, un chaleco púrpura oscuro y pantalones azules. Encima de los tres personajes hay globos de diálogo ilustrados: sobre el hombre en silla de ruedas y la mujer hay signos de interrogación en color azul que indican que están haciendo preguntas, mientras que encima del hombre de la derecha aparece un signo de exclamación en azul, sugiriendo que él está respondiendo o explicando algo. El fondo de la imagen es blanco con formas abstractas curvas en tonos grises claros, creando una atmósfera limpia y profesional. La escena refleja un diálogo o consulta, y transmite una atmósfera seria pero colaborativa. Los colores predominantes son azules, rosas, y blancos, con trazos que denotan simplicidad y claridad visual.')
+          .col-lg-10.desktop(data-aos="zoom-in")
+            figure
+              img(src='@/assets/curso/temas/tema2/img1.svg', alt='Descripción: En la imagen, se observa una escena ilustrada en interiores con tres personas interactuando. A la izquierda, se encuentra un hombre joven sentado en una silla de ruedas de color azul claro con detalles en gris, que viste una camiseta azul y pantalones oscuros. A su lado derecho está una mujer joven sentada en una silla sencilla; ella lleva una blusa color rosa claro y una falda azul larga que cubre sus piernas. Ambos parecen estar conversando con un hombre que está a la derecha y que está sentado en una silla roja, mientras sostiene un papel en su mano izquierda y gesticula con su mano derecha. Este hombre viste una camisa blanca, un chaleco púrpura oscuro y pantalones azules. Encima de los tres personajes hay globos de diálogo ilustrados: sobre el hombre en silla de ruedas y la mujer hay signos de interrogación en color azul que indican que están haciendo preguntas, mientras que encima del hombre de la derecha aparece un signo de exclamación en azul, sugiriendo que él está respondiendo o explicando algo. El fondo de la imagen es blanco con formas abstractas curvas en tonos grises claros, creando una atmósfera limpia y profesional. La escena refleja un diálogo o consulta, y transmite una atmósfera seria pero colaborativa. Los colores predominantes son azules, rosas, y blancos, con trazos que denotan simplicidad y claridad visual.')
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-9.order-lg-1.order-2(data-aos="zoom-in")
         p La valoración de apoyos es un instrumento establecido por la Ley 1996 de 2019, contemplado a partir del artículo 9. Aunque constituye un requisito para acceder a la adjudicación judicial de apoyos, no se trata únicamente de un documento o una exigencia normativa. Es, ante todo, un estudio y un informe sobre la autonomía de la persona con discapacidad, en el que se analiza cómo realiza sus actividades cotidianas y cómo se desenvuelve en distintos entornos, como el familiar, laboral, educativo y comunitario.
@@ -60,11 +62,10 @@
       )
       .bloque-texto-g__texto.p-4
         p.mb-0  De manera excepcional, este examen se realiza cuando existen dudas o inquietudes sobre el ejercicio de la capacidad en alguna actividad específica. Dado que la capacidad jurídica es inherente a todas las personas con discapacidad, el instrumento jurídico por excelencia para su garantía es el acuerdo de apoyos, mediante el cual cada persona puede decidir libremente cómo, cuándo y en qué situaciones desea recibir apoyo en la toma de decisiones.
-    p.mb-4 A continuación, se presenta un resumen de los aspectos clave de este apartado :
+    p.mb-4 A continuación, se presenta un resumen de los aspectos clave de este apartado:
     
     .tarjeta--BG02.p-4
-      p.mb-4(data-aos="fade-left") Los documentos vinculantes son:
-      SlyderF.color-acento-botones.mb-5(columnas="col-lg-6 col-xl-4")
+      SlyderF.color-acento-botones(columnas="col-lg-6 col-xl-4")
         .tarjeta.color-primario.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6
@@ -102,6 +103,10 @@
           h5.text-center  Resultado esperado
           p.text-center.mb-0 Identificación de apoyos, fortalecimiento de la autonomía y ejercicio de capacidad jurídica sin sustituir la voluntad.
     
+    separador
+    #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-left")
+      h2 2.1	Habilidades de la persona facilitadora
+
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-3.col-6.mb-4.mb-lg-0(data-aos="zoom-in")
         figure
@@ -178,13 +183,13 @@
 
 
     separador
-    #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2 2.1	Concepto de la valoración de apoyo
-    p Antes de comprender cómo se realiza una valoración de apoyos, es igualmente importante aclarar qué no constituye este procedimiento.
+    #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-left")
+      h2 2.2	¿Qué no es una valoración de apoyos?
+    p Antes de comprender cómo se realiza una valoración de apoyos, es igualmente importante aclarar #[b qué no constituye] este procedimiento.
     p Distinguir la valoración de apoyos de otras prácticas inadecuadas o erróneas evita confusiones, garantiza el respeto por la autonomía de las personas con discapacidad y orienta correctamente a quienes participan en el proceso.
-    p.mb-4 Esta sección recoge las ideas centrales que precisan los límites conceptuales y éticos de la valoración .
+    p.mb-4 Esta sección recoge las ideas centrales que precisan los #[b límites conceptuales y éticos] de la valoración.
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-4
       .col-lg-8.order-lg-1.order-2(data-aos="fade-left")
         AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--gris")
           div(titulo="No es una evaluación de competencia o inteligencia")
@@ -204,34 +209,34 @@
         figure
           img.img-fluid(src="@/assets/curso/temas/tema2/img23.svg" alt="Imagen decorativa")
       .col-lg-9(data-aos="zoom-in")
-        p Partiendo de los Lineamientos y Protocolo Nacional para la Valoración de apoyos en el marco de la Ley 1996 (2020), así como la experiencia del Programa de Atención a Personas con Discapacidad -PAPD- de la Universidad de Antioquia y del Ministerio de la Igualdad :
+        p Partiendo de los Lineamientos y Protocolo Nacional para la Valoración de apoyos en el marco de la Ley 1996 (2020), así como la experiencia del Programa de Atención a Personas con Discapacidad -PAPD- de la Universidad de Antioquia y del Ministerio de la Igualdad:
         .bloque-texto-c.color-primario.tarjeta.p-3
           ul.lista-ul.mb-0
-            li.mb-0
+            li.mb--44
               i.lista-ul__vineta
               p.text-bold.mb-0 No es un diagnóstico médico, psicológico o psiquiátrico.
-            li.mb-0
+            li.mb--44
               i.lista-ul__vineta
               p.text-bold.mb-0 No es una herramienta terapéutica.
-            li.mb-0
+            li.mb--44
               i.lista-ul__vineta
               p.text-bold.mb-0 No es una valoración pedagógica.
-            li.mb-0
+            li.mb--44
               i.lista-ul__vineta
               p.text-bold.mb-0 No es una valoración ocupacional.
-            li.mb-0
+            li.mb--44
               i.lista-ul__vineta
               p.text-bold.mb-0 No es una valoración de necesidades insatisfechas.
-            li.mb-0
+            li.mb--44
               i.lista-ul__vineta
               p.text-bold.mb-0 No es una certificación de discapacidad.
-            li.mb-0
+            li.mb--44
               i.lista-ul__vineta
               p.text-bold.mb-0 No es una medición de invalidez.
-            li.mb-0
+            li.mb--44
               i.lista-ul__vineta
               p.text-bold.mb-0 No es una valoración del desarrollo para niños, niñas, niñes, adolescentes o personas adultas con discapacidad.
-    p.mb-4 Para ampliar la comprensión de este tema, a continuación se presenta un podcast que aborda diversos aspectos relacionados con la valoración de apoyos en Colombia.	
+    p.mb-4 Para ampliar la comprensión de este tema, a continuación se presenta un #[b podcast] que aborda diversos aspectos relacionados con la valoración de apoyos en Colombia.	
 	
     .row.justify-content-center
       .col-lg-8(data-aos="zoom-in")
@@ -241,7 +246,7 @@
         .tarjeta.clr--pink.p-4.rounded-0.h-100
           .tarjeta.bg-white.p-4
             TarjetaAudio.color-acento-contenido.mb-3(
-              texto="Entiendo la discapacidad paso a paso"
+              texto="La Valoración de Apoyos en Colombia"
               :audio="require('@/assets/actividad/audio/Potcast_01.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
           )

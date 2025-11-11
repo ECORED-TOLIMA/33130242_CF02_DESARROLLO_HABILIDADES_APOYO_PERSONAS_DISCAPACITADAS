@@ -7,19 +7,21 @@
         span 3
       h1 Descripción del proceso técnico de la valoración de apoyos
     
-    .titulo-sexto.color-acento-contenido.offset-1(data-aos="fade-left")
+    .titulo-sexto.color-acento-contenido.offset-0.offset-lg-1(data-aos="fade-left")
       h5 Figura 3.
       i Descripción del proceso técnico de la valoración de apoyos
 
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-10.tarjeta--BG12.tarjeta.p-4
+        .row.justify-content-center.align-items-center
+          .col-lg-10.movil(data-aos="zoom-in")
+            figure
+              img(src='@/assets/curso/temas/tema3/img1.svg', alt='Descripción: Pendiente por la entregar')
+          .col-lg-10.desktop(data-aos="zoom-in")
+            figure
+              img(src='@/assets/curso/temas/tema3/img1.svg', alt='Descripción: Pendiente por la entregar')
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-10.movil(data-aos="zoom-in")
-        figure
-          img(src='@/assets/curso/temas/tema3/img1.svg', alt='Descripción: Pendiente por la entregar')
-      .col-lg-10.desktop(data-aos="zoom-in")
-        figure
-          img(src='@/assets/curso/temas/tema3/img1.svg', alt='Descripción: Pendiente por la entregar')
-    .row.justify-content-center.align-items-center.mb-4
-      .col-lg-9.order-lg-1.order-2(data-aos="zoom-in")
+      .col-lg-9(data-aos="zoom-in")
         p A continuación, se presenta una descripción del proceso técnico de la valoración de apoyos, que inicialmente le permitirá a la persona facilitadora de esta valoración tener un esquema general del proceso y que posteriormente pueda profundizar un poco más en cada una de sus etapas.
         .bloque-texto-c.color-primario.tarjeta.p-3
           .row.justify-content-center.align-items-center
@@ -28,7 +30,7 @@
                 img.img-fluid(src="@/assets/curso/temas/tema3/img3.svg" alt="Imagen decorativa")
             .col-lg-10
               p.mb-0 La Convención sobre los Derechos de las Personas con Discapacidad de Naciones Unidas (2006), adoptada por Colombia mediante la Ley 1346 de 2009 y revisada por la Corte Constitucional en la Sentencia C-293 de 2010, en su articulado establece un cambio de paradigma, donde se propone pasar de las medidas sustitutivas a un enfoque de derechos humanos que privilegia y garantiza la voluntad, capacidad y autonomía de las personas con discapacidad, y se invita a los Estados firmantes de la Convención a modificar, transformar y ajustar sus normatividades internas, alineándose con los derechos desarrollados en la Convención.
-      .col-lg-3.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
+      .col-lg-3.col-10.d-lg-block.d-none.mb-4(data-aos="zoom-in")
         figure
           img.img-fluid(src="@/assets/curso/temas/tema3/img2.png" alt="Imagen decorativa")
     .row.justify-content-center.align-items-center.mb-4
@@ -37,7 +39,7 @@
           img.img-fluid(src="@/assets/curso/temas/tema3/img4.png" alt="Imagen decorativa")
       .col-lg-8(data-aos="zoom-in")
         p De acuerdo con lo anterior, en Colombia con la Ley 1996 de 2019 se da un marco normativo para que las personas con discapacidad puedan disfrutar plenamente de su capacidad, pudiendo elegir y tomar decisiones para todas y cada una de las actividades de la vida, entendiendo que el cambio de paradigma implica pasar de medidas sustitutivas —donde una tercera persona tomaba las decisiones de las personas con discapacidad (en mayor medida las personas con discapacidad intelectual se veían afectadas por este modelo de sustitución)— a un modelo donde se les guía y se les brindan los apoyos para que puedan tomar sus propias decisiones.
-        p.mb-0 Para ello, se toma como referencia la concepción establecida en la Convención sobre los Derechos de las Personas con Discapacidad, que reconoce los siguientes aspectos :
+        p.mb-0 Para ello, se toma como referencia la concepción establecida en la Convención sobre los Derechos de las Personas con Discapacidad, que reconoce los siguientes aspectos:
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-3.col-sm-6.col-8.mb-lg-0.mb-4(data-aos="zoom-in")
@@ -84,7 +86,11 @@
       .col-lg-3.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
         figure
           img.img-fluid(src="@/assets/curso/temas/tema3/img8.png" alt="Imagen decorativa")
-    p.mb-4 A continuación, se presenta un esquema del proceso, seguido de su respectiva descripción .
+    
+    p.mb-4 A continuación, se presenta un esquema del proceso, seguido de su respectiva descripción.
+
+    .titulo2.mb-4(data-aos="fade-left")
+      h5.mb-0 Pasos para el proceso técnico de la valoración de apoyos 
 
     .tarjeta--BG06.p-4.px-md-5.mb-4
       .tarjeta.tarjeta--FBG06.p-4.my-4(data-aos="fade-left")
@@ -92,7 +98,7 @@
           .row
             .col-lg-6.order-2.order-lg-1
               h5 Solicitud
-              p.mb-0 ay dos opciones:  la realiza la persona con discapacidad o un tercero, esta solicitud va acompañada de unos documentos y un expediente que pueden contener la historia clínica y otros informes de valoraciones previas, que sirven para preparar y realizar el aprestamiento de la entrevista.
+              p.mb-0 Hay dos opciones:  la realiza la persona con discapacidad o un tercero, esta solicitud va acompañada de unos documentos y un expediente que pueden contener la historia clínica y otros informes de valoraciones previas, que sirven para preparar y realizar el aprestamiento de la entrevista.
             .col-lg-6.col-10.order-1.order-lg-2.mb-4
               figure
                 img(src='@/assets/curso/temas/tema3/img10.png', alt='Imagen decorativa')
@@ -105,7 +111,7 @@
                 img(src='@/assets/curso/temas/tema3/img9.png', alt='Imagen decorativa')
           .row
             .col-lg-6.order-2.order-lg-1
-              h5 Concertación
+              h5 Entrevista
               p.mb-0 Realización de la entrevista, la cual es semiestructurada, accesible y en ese sentido, se deben implementar las estrategias necesarias según el caso concreto para una comunicación accesibles donde se garantiza siempre la autonomía de la persona con discapacidad y la eliminación de barreras actitudinales, físicas y comunicativas.
             .col-lg-6.col-10.order-1.order-lg-2.mb-4
               figure
@@ -139,7 +145,7 @@
         .col-lg-8
           .px-4
             p.mb-0 La solicitud constituye el momento previo e inicial en el que una persona con discapacidad, o alguien perteneciente a su red de apoyo familiar o social, se acerca a entidades públicas o privadas que, de acuerdo con el artículo 11 de la Ley 1996 de 2019, están habilitadas para realizar la valoración de apoyos. Esto, siempre y cuando dichas entidades sigan los lineamientos y protocolos establecidos por el ente rector de la política pública de discapacidad —actualmente el Ministerio de Igualdad y Equidad—. Cabe aclarar que, como mínimo, las valoraciones de apoyo deben ser ofrecidas por la Defensoría del Pueblo, las Personerías y los entes territoriales a través de las gobernaciones y alcaldías.
-    p.mb-4 En el contenido de la solicitud es fundamental tener en cuenta los siguientes aspectos :
+    p.mb-4 En el contenido de la solicitud es fundamental tener en cuenta los siguientes aspectos:
     .tarjeta--BG01.p-4
       .row.justify-content-center.align-items-center
         .col-lg-7(data-aos="fade-left")
@@ -254,7 +260,7 @@
       .col-lg-9.order-lg-1.order-2(data-aos="zoom-in")
         p Antes del encuentro con la persona con discapacidad, la persona facilitadora debe leer cuidadosamente la solicitud y revisar los documentos anexos. Esto le permitirá comprender el contexto de la situación, evitar repetir información durante la entrevista y garantizar que el espacio y la comunicación cuenten con los ajustes razonables y condiciones de accesibilidad necesarias.
         .bloque-texto-c.color-secundario.p-3
-          p.mb-0 Asimismo, es recomendable preparar la estructura del documento que se utilizará como informe de la valoración de apoyos. Esto facilitará la organización de la información durante la conversación con la persona con discapacidad y con quienes participen en el proceso. Si la persona facilitadora considera pertinente realizar una grabación de audio, debe contar con el consentimiento previo, libre e informado de la persona con discapacidad y de todas las personas presentes. Esta autorización debe formalizarse por escrito mediante un formato de consentimiento informado firmado por quienes participan en la valoración.
+          p.mb-0 Asimismo, es recomendable preparar la estructura del documento que se utilizará como informe de la valoración de apoyos. Esto facilitará la organización de la información durante la conversación con la persona con discapacidad y con quienes participen en el proceso. Si la persona facilitadora considera pertinente realizar una grabación de audio, debe contar con el consentimiento previo, libre e informado de la persona con discapacidad y de todas las personas presentes. Esta autorización debe formalizarse por escrito mediante un formato de consentimiento informado y firmado por quienes participan en la valoración.
       .col-lg-3.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
         figure
           img.img-fluid(src="@/assets/curso/temas/tema3/img17.png" alt="Imagen decorativa")
@@ -274,10 +280,10 @@
           ul.lista-ul
             li.mb-0
               i.lista-ul__vineta
-              p.mb-0 ¿Qué apoyos necesita para comunicarse mejor?
+              p.mb-0 #[b ¿Qué apoyos necesita para comunicarse mejor?]
             li.mb-0
               i.lista-ul__vineta
-              p.mb-0 ¿Cree que hay otras personas que podrían ayudar a mejorar la comunicación en este espacio?
+              p.mb-0 #[b ¿Cree que hay otras personas que podrían ayudar a mejorar la comunicación en este espacio?]
           p También se pueden formular preguntas a la red de apoyo, por ejemplo:
           .row
             .col-sm-6.col-lg-4.mb-4.mb-lg-0
@@ -286,7 +292,7 @@
                   .col-4
                     figure
                       img(src='@/assets/curso/temas/tema3/img25.svg', alt='Texto que describa la imagen')
-                p.text-center ¿Existe algún tipo de apoyo para facilitar la comunicación?
+                p.text-center.text-bold ¿Existe algún tipo de apoyo para facilitar la comunicación?
 
             .col-sm-6.col-lg-4.mb-4.mb-lg-0
               .tarjeta.tarjeta-boton.color-primario.p-4.h-100
@@ -294,7 +300,7 @@
                   .col-4
                     figure
                       img(src='@/assets/curso/temas/tema3/img26.svg', alt='Texto que describa la imagen')
-                p.text-center ¿Cuál es ese tipo de apoyo?
+                p.text-center.text-bold ¿Cuál es ese tipo de apoyo?
 
             .col-sm-6.col-lg-4.mb-4.mb-sm-0
               .tarjeta.tarjeta-boton.color-primario.p-4.h-100
@@ -302,7 +308,7 @@
                   .col-4
                     figure
                       img(src='@/assets/curso/temas/tema3/img27.svg', alt='Texto que describa la imagen')
-                p.text-center ¿Quiénes podrían brindarlo?
+                p.text-center.text-bold ¿Quiénes podrían brindarlo?
       .col-lg-4.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
         figure
           img.img-fluid(src="@/assets/curso/temas/tema3/img18.png" alt="Imagen decorativa")
@@ -339,7 +345,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-9.order-lg-1.order-2(data-aos="zoom-in")
         p Ante estas situaciones, es importante que la persona facilitadora esté atenta y preparada para implementar ajustes razonables, como:
-        .bloque-texto-c.color-primario.p-3.mb-3
+        .bloque-texto-c.color-primario-beige.p-3.mb-3
           .row.justify-content-center.align-items-center
             .col-lg-1.col-6.mb-lg-0.d-none.d-lg-block.mb-4(data-aos="zoom-in")
               figure
@@ -348,10 +354,10 @@
               ul.lista-ul.mb-0
                 li.mb--44
                   i.lista-ul__vineta
-                  p.mb-0 Uso de lenguaje sencillo y cotidiano.
+                  p.text-bold.mb-0 Uso de lenguaje sencillo y cotidiano.
                 li.mb--44
                   i.lista-ul__vineta
-                  p.mb-0 Indagación previa con la red de apoyo sobre cómo se comunica la persona con discapacidad y quiénes la comprenden mejor, para evaluar la necesidad de mediación comunicativa.
+                  p.text-bold.mb-0 Indagación previa con la red de apoyo sobre cómo se comunica la persona con discapacidad y quiénes la comprenden mejor, para evaluar la necesidad de mediación comunicativa.
 
         p.mb-0 Estas medidas deben adaptarse al tipo de discapacidad y al contexto específico, siempre respetando la voluntad, autonomía e independencia de la persona con discapacidad.
       .col-lg-3.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
@@ -365,36 +371,36 @@
         figure
           img.img-fluid(src="@/assets/curso/temas/tema3/img21_1.svg" alt="Imagen decorativa")
       .col-lg-9(data-aos="zoom-in")
-        p Se recomienda que la persona facilitadora prepare un documento explicativo con lenguaje claro y accesible sobre los conceptos que se abordarán durante la valoración, tales como :
+        p Se recomienda que la persona facilitadora prepare un documento explicativo con lenguaje claro y accesible sobre los conceptos que se abordarán durante la valoración, tales como:
         .bloque-texto-c.color-primario.p-3.mb-3
           ul.lista-ul.mb-0
             li.mb--6
               i.lista-ul__vineta
-              p.text-bold.mb-0 Discapacidad (desde el Modelo Social)
+              p.text-bold.mb-0 Discapacidad (desde el Modelo Social).
             li.mb--6
               i.lista-ul__vineta
-              p.text-bold.mb-0 Tipos de discapacidad
+              p.text-bold.mb-0 Tipos de discapacidad.
             li.mb--6
               i.lista-ul__vineta
-              p.text-bold.mb-0 Capacidad jurídica
+              p.text-bold.mb-0 Capacidad jurídica.
             li.mb--6
               i.lista-ul__vineta
-              p.text-bold.mb-0 Apoyos para el ejercicio de la capacidad jurídica
+              p.text-bold.mb-0 Apoyos para el ejercicio de la capacidad jurídica.
             li.mb--6
               i.lista-ul__vineta
-              p.text-bold.mb-0 Ajustes razonables
+              p.text-bold.mb-0 Ajustes razonables.
             li.mb--6
               i.lista-ul__vineta
               p.text-bold.mb-0 Tipos de apoyos (humanos, técnicos, tecnológicos o ayudas vivas. Estos aspectos se plantearán en el apartado 4).
             li.mb--6
               i.lista-ul__vineta
-              p.text-bold.mb-0 Valoración de apoyos
+              p.text-bold.mb-0 Valoración de apoyos.
             li.mb--6
               i.lista-ul__vineta
-              p.text-bold.mb-0 Formalización de apoyos
+              p.text-bold.mb-0 Formalización de apoyos.
             li.mb--6
               i.lista-ul__vineta
-              p.text-bold.mb-0 Toma de decisiones autónoma
+              p.text-bold.mb-0 Toma de decisiones autónoma.
         P.mb-0 Este documento debe ser leído en voz alta, explicado de forma pausada y acompañado de preguntas que permitan verificar la comprensión. Una estrategia útil consiste en pedir a la persona con discapacidad y a las demás personas participantes que expliquen con sus propias palabras cómo entendieron los conceptos.
     
     .titulo2.mb-4(data-aos="fade-left")
@@ -417,8 +423,8 @@
       img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
       h5.mb-0  Motivaciones y proyecto de vida
 
-    p.mb-4 La valoración de apoyos debe centrarse en la persona con discapacidad como protagonista, reconociendo sus necesidades, metas, deseos y decisiones. Es ella quien debe aportar la mayor cantidad de información sobre su proyecto de vida y los apoyos que requiere o con los que ya cuenta. Algunas preguntas orientadoras que puede formular la persona facilitadora son :
-    .row.justify-content-center.align-items-center.mb-5
+    p.mb-4 La valoración de apoyos debe centrarse en la persona con discapacidad como protagonista, reconociendo sus necesidades, metas, deseos y decisiones. Es ella quien debe aportar la mayor cantidad de información sobre su proyecto de vida y los apoyos que requiere o con los que ya cuenta. Algunas preguntas orientadoras que puede formular la persona facilitadora son:
+    .row.justify-content-center.align-items-center.mb-4
       .col-lg-10
         .bloque-texto-c.color-primario-medio.p-4
           .row.justify-content-center.align-items-center
@@ -437,16 +443,16 @@
                   ul
                     li.mb--44
                       i.lista-ul__vineta
-                      p.mb-0 Familia, cuidado personal y vivienda
+                      p.mb-0 Familia, cuidado personal y vivienda.
                     li.mb--44
                       i.lista-ul__vineta
-                      p.mb-0 Salud (general, mental, sexual y reproductiva)
+                      p.mb-0 Salud (general, mental, sexual y reproductiva).
                     li.mb--44
                       i.lista-ul__vineta
-                      p.mb-0 Patrimonio y manejo del dinero
+                      p.mb-0 Patrimonio y manejo del dinero.
                     li.mb--44
                       i.lista-ul__vineta
-                      p.mb-0 Trabajo y generación de ingresos
+                      p.mb-0 Trabajo y generación de ingresos.
                     li.mb--44
                       i.lista-ul__vineta
                       p.mb-0 Acceso a la justicia, participación ciudadana y ejercicio del voto
@@ -538,7 +544,7 @@
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
       h5.mb-0  ¿Quiénes no pueden ser personas de apoyo?
-    p.mb-4 Según el artículo 45 de la Ley 1996 de 2019, existen inhabilidades que impiden que una persona pueda ejercer como apoyo. Aunque la decisión final corresponde a un juez en el proceso de adjudicación judicial, es importante que la persona facilitadora esté atenta a posibles riesgos de vulneración de derechos. Estas inhabilidades incluyen :
+    p.mb-4 Según el artículo 45 de la Ley 1996 de 2019, existen inhabilidades que impiden que una persona pueda ejercer como apoyo. Aunque la decisión final corresponde a un juez en el proceso de adjudicación judicial, es importante que la persona facilitadora esté atenta a posibles riesgos de vulneración de derechos. Estas inhabilidades incluyen:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4
@@ -561,7 +567,7 @@
             p.text-center Uso de una relación de confianza para influir en decisiones contrarias a la voluntad de la persona con discapacidad.
     p.mb-4 Preguntas orientadoras para detectar estas situaciones:
     .tarjeta--BG08.p-4
-      .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-center.mb-4
         .col-lg-10
           .bloque-texto-c.color-secundario
             .row.justify-content-center.align-items-center
@@ -591,7 +597,7 @@
         img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
         h5.mb-0  Patrimonio y manejo del dinero
 
-      p.mb-4 Este punto no busca evaluar la situación socioeconómica, sino identificar qué tipo de apoyo necesita la persona con discapacidad para tomar decisiones relacionadas con su patrimonio. Las necesidades pueden variar según el contexto, edad, nivel educativo y planes futuros. Algunas preguntas en este ámbito son :
+      p.mb-4 Este punto no busca evaluar la situación socioeconómica, sino identificar qué tipo de apoyo necesita la persona con discapacidad para tomar decisiones relacionadas con su patrimonio. Las necesidades pueden variar según el contexto, edad, nivel educativo y planes futuros. Algunas preguntas en este ámbito son:
 
       .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
         .bloque-texto-g__img(
@@ -635,7 +641,7 @@
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-7.order-lg-1.order-2(data-aos="zoom-in")
-        p Aquí se valora qué apoyos necesita la persona con discapacidad para tomar decisiones en su entorno familiar, de vivienda y cuidado personal. Algunas preguntas orientadoras son :
+        p Aquí se valora qué apoyos necesita la persona con discapacidad para tomar decisiones en su entorno familiar, de vivienda y cuidado personal. Algunas preguntas orientadoras son:
         .bloque-texto-c.bloque-texto-c.color-primario-beige.p-3
           .lista-ul.mb-0
             li.mb--4
@@ -663,44 +669,44 @@
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
       h5.mb-0 Salud
-    p.mb-4 Este punto se enfoca en los apoyos necesarios para que la persona con discapacidad ejerza su autonomía en decisiones relacionadas con la salud, sin que se trate de una evaluación médica. Algunas preguntas son :
+    p.mb-4 Este punto se enfoca en los apoyos necesarios para que la persona con discapacidad ejerza su autonomía en decisiones relacionadas con la salud, sin que se trate de una evaluación médica. Algunas preguntas son:
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-3.mb-lg-0.mb-4(data-aos="zoom-in")
+      .col-lg-4.mb-lg-0.mb-4(data-aos="zoom-in")
         figure
           img.img-fluid(src="@/assets/curso/temas/tema3/img41.png" alt="Imagen decorativa")
-      .col-lg-9(data-aos="zoom-in")
+      .col-lg-8(data-aos="zoom-in")
         .bloque-texto-c.color-primario.p-3
-        ul.lista-ul.mb-0
-          li.mb-0
-            i.lista-ul__vineta
-            p.text-bold.mb-0 ¿Está afiliada/o a alguna EPS? ¿Cuál?
-          li.mb-0
-            i.lista-ul__vineta
-            p.text-bold.mb-0 ¿Sabe si pertenece al régimen contributivo o subsidiado?
-          li.mb-0
-            i.lista-ul__vineta
-            p.text-bold.mb-0 ¿Qué especialistas consulta y con qué frecuencia?
-          li.mb-0
-            i.lista-ul__vineta
-            p.text-bold.mb-0 ¿Asiste a terapias regularmente?
-          li.mb-0
-            i.lista-ul__vineta
-            p.text-bold.mb-0 ¿Qué medicamentos toma con frecuencia?
-          li.mb-0
-            i.lista-ul__vineta
-            p.text-bold.mb-0 ¿Necesita apoyo para solicitar servicios de salud?
-          li.mb-0
-            i.lista-ul__vineta
-            p.text-bold.mb-0 ¿Requiere ayuda para asistir a citas, exámenes o reclamar medicamentos?
-          li.mb-0
-            i.lista-ul__vineta
-            p.text-bold.mb-0 ¿Necesita apoyo para tomar decisiones sobre tratamientos médicos?
-          li.mb-0
-            i.lista-ul__vineta
-            p.text-bold.mb-0 En caso de hospitalización, ¿requiere apoyo para comprender los procedimientos médicos?
-          li.mb-0
-            i.lista-ul__vineta
-            p.text-bold.mb-0 ¿Necesita apoyo para autorizar exámenes o procedimientos?
+          ul.lista-ul.mb-0
+            li.mb-0
+              i.mb--44.lista-ul__vineta
+              p.text-bold.mb-0 ¿Está afiliada/o a alguna EPS? ¿Cuál?
+            li.mb--44.mb-0
+              i.lista-ul__vineta
+              p.text-bold.mb-0 ¿Sabe si pertenece al régimen contributivo o subsidiado?
+            li.mb--44.mb-0
+              i.lista-ul__vineta
+              p.text-bold.mb-0 ¿Qué especialistas consulta y con qué frecuencia?
+            li.mb--44.mb-0
+              i.lista-ul__vineta
+              p.text-bold.mb-0 ¿Asiste a terapias regularmente?
+            li.mb--44.mb-0
+              i.lista-ul__vineta
+              p.text-bold.mb-0 ¿Qué medicamentos toma con frecuencia?
+            li.mb--44.mb-0
+              i.lista-ul__vineta
+              p.text-bold.mb-0 ¿Necesita apoyo para solicitar servicios de salud?
+            li.mb--44.mb-0
+              i.lista-ul__vineta
+              p.text-bold.mb-0 ¿Requiere ayuda para asistir a citas, exámenes o reclamar medicamentos?
+            li.mb--44.mb-0
+              i.lista-ul__vineta
+              p.text-bold.mb-0 ¿Necesita apoyo para tomar decisiones sobre tratamientos médicos?
+            li.mb--44.mb-0
+              i.lista-ul__vineta
+              p.text-bold.mb-0 En caso de hospitalización, ¿requiere apoyo para comprender los procedimientos médicos?
+            li.mb--44.mb-0
+              i.lista-ul__vineta
+              p.text-bold.mb-0 ¿Necesita apoyo para autorizar exámenes o procedimientos?
 
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')
@@ -739,7 +745,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-7.order-lg-1.order-2(data-aos="zoom-in")
         p Al finalizar la entrevista, se debe realizar un cierre respetuoso del espacio y posteriormente elaborar un informe claro que determine los apoyos requeridos por la persona con discapacidad para el ejercicio de su autonomía.
-        p Este informe puede derivar en dos escenarios :
+        p Este informe puede derivar en dos escenarios:
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-6
             .bloque-texto-c.bloque-texto-c.color-primario-medio.tarjeta.h-100.p-4
