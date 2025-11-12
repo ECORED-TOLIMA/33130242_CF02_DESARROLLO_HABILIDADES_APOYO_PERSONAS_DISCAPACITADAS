@@ -42,7 +42,7 @@
     .bloque-texto-c.bloque-texto-c.color-primario-medio.tarjeta
       .row.justify-content-center.align-items-center
         .col-lg-8
-          div(style="width: 7%;margin-left: 3%;margin-top: 3%;")
+          div.d-lg-block.d-none(style="width: 7%;margin-left: 3%;margin-top: 3%;")
             img(src='@/assets/curso/temas/tema4/img6.svg', alt='Imagen decorativa')
           .row.align-items-center.p-4
             p.mb-0 La valoración de apoyos también debe ajustarse a otras formas de asistencia, como las ayudas vivas. Por ejemplo, una persona ciega que cuenta con un perro guía, o una persona con discapacidad física que recibe apoyo de un animal entrenado para facilitar su movilidad, elección de objetos o como compañía emocional.

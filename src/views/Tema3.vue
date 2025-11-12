@@ -424,7 +424,7 @@
       .col-lg-10
         .bloque-texto-c.color-primario-medio.p-4
           .row.justify-content-center.align-items-center
-            .col-lg-8.order-lg-1.order-2
+            .col-lg-7.order-lg-1.order-2
               ul.lista-ul.mb-0
                 li.mb--44
                   i.lista-ul__vineta
@@ -456,7 +456,7 @@
                   i.lista-ul__vineta
                   p.text-bold.mb-0 ¿Cuál de estos ámbitos considera más importante? ¿Por qué?
 
-            .col-lg-4.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
+            .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
               figure
                 img.img-fluid(src="@/assets/curso/temas/tema3/img24.png" alt="Imagen decorativa")
 
@@ -561,7 +561,7 @@
           .tarjeta.color-primario.p-4.w-100.h-100
             h5.mt-4.text-center Injerencia indebida
             p.text-center Uso de una relación de confianza para influir en decisiones contrarias a la voluntad de la persona con discapacidad.
-    p.mb-4 Preguntas orientadoras para detectar estas situaciones:
+    p.mb-0 Preguntas orientadoras para detectar estas situaciones:
     .tarjeta--BG08.p-4
       .row.justify-content-center.align-items-center.mb-4
         .col-lg-10
