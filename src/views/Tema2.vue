@@ -236,7 +236,7 @@
             li.mb--44
               i.lista-ul__vineta
               p.text-bold.mb-0 No es una valoración del desarrollo para niños, niñas, niñes, adolescentes o personas adultas con discapacidad.
-    p.mb-4 Para ampliar la comprensión de este tema, a continuación se presenta un #[b podcast] que aborda diversos aspectos relacionados con la valoración de apoyos en Colombia.	
+    p.mb-4 Para ampliar la comprensión de este tema, a continuación se presenta un pódcast que aborda diversos aspectos relacionados con la valoración de apoyos en Colombia.	
 	
     .row.justify-content-center
       .col-lg-8(data-aos="zoom-in")

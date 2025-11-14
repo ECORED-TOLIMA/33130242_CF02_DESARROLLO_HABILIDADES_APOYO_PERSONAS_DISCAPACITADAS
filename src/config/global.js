@@ -82,7 +82,7 @@ export default {
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: '3.	Descripción del proceso técnico de la valoración de apoyos',
+        titulo: 'Descripción del proceso técnico de la valoración de apoyos',
         desarrolloContenidos: true,
         subMenu: [
           {
