@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 2
       h1 Concepto de la valoración de apoyo
-
+    p.mb-4 La valoración de apoyos es un instrumento establecido por la Ley 1996 de 2019, contemplado a partir del artículo 9. Aunque constituye un requisito para acceder a la adjudicación judicial de apoyos, no se trata únicamente de un documento o una exigencia normativa. Es, ante todo, un estudio y un informe sobre la autonomía de la persona con discapacidad, en el que se analiza cómo realiza sus actividades cotidianas y cómo se desenvuelve en distintos entornos, como el familiar, laboral, educativo y comunitario.
     .titulo-sexto.color-acento-contenido.offset-0.offset-lg-1(data-aos="fade-left")
       h5 Figura 2.
       i Concepto de la valoración de apoyo
@@ -22,7 +22,7 @@
               img(src='@/assets/curso/temas/tema2/img1.svg', alt='Descripción: En la imagen, se observa una escena ilustrada en interiores con tres personas interactuando. A la izquierda, se encuentra un hombre joven sentado en una silla de ruedas de color azul claro con detalles en gris, que viste una camiseta azul y pantalones oscuros. A su lado derecho está una mujer joven sentada en una silla sencilla; ella lleva una blusa color rosa claro y una falda azul larga que cubre sus piernas. Ambos parecen estar conversando con un hombre que está a la derecha y que está sentado en una silla roja, mientras sostiene un papel en su mano izquierda y gesticula con su mano derecha. Este hombre viste una camisa blanca, un chaleco púrpura oscuro y pantalones azules. Encima de los tres personajes hay globos de diálogo ilustrados: sobre el hombre en silla de ruedas y la mujer hay signos de interrogación en color azul que indican que están haciendo preguntas, mientras que encima del hombre de la derecha aparece un signo de exclamación en azul, sugiriendo que él está respondiendo o explicando algo. El fondo de la imagen es blanco con formas abstractas curvas en tonos grises claros, creando una atmósfera limpia y profesional. La escena refleja un diálogo o consulta, y transmite una atmósfera seria pero colaborativa. Los colores predominantes son azules, rosas, y blancos, con trazos que denotan simplicidad y claridad visual.')
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-9.order-lg-1.order-2(data-aos="zoom-in")
-        p La valoración de apoyos es un instrumento establecido por la Ley 1996 de 2019, contemplado a partir del artículo 9. Aunque constituye un requisito para acceder a la adjudicación judicial de apoyos, no se trata únicamente de un documento o una exigencia normativa. Es, ante todo, un estudio y un informe sobre la autonomía de la persona con discapacidad, en el que se analiza cómo realiza sus actividades cotidianas y cómo se desenvuelve en distintos entornos, como el familiar, laboral, educativo y comunitario.
+        
         .bloque-texto-c.color-primario.tarjeta.p-3
           .row.justify-content-center.align-items-center
             .col-lg-2.col-6.mb-lg-0.d-none.d-lg-block.mb-4(data-aos="zoom-in")
@@ -114,14 +114,14 @@
       .col-lg-9        
         p(data-aos="fade-left") Antes de profundizar en los aspectos técnicos de la valoración de apoyos, es esencial comprender el papel de la persona facilitadora en este proceso.
         p(data-aos="fade-left") Su función no se limita a aplicar un instrumento, sino a garantizar que la valoración se realice desde un enfoque de derechos, reconociendo la autonomía y la capacidad jurídica plena de las personas con discapacidad.
-        .bloque-texto-c.color-secundario.p-4
+        .bloque-texto-c.color-secundario.p-4.mb-4
           .row.justify-content-center.align-items-center
             .col-lg-1.d-none.d-lg-block(data-aos="zoom-in")
               figure
                 img(src='@/assets/curso/temas/tema2/img14.svg', alt='Imagen decorativa')
             .col-lg-11
-                p Por ello, resulta fundamental conocer la base normativa que respalda la capacidad legal y el sentido de los apoyos dentro de este marco.
-                p.mb-0 A continuación, se presenta una tabla que organiza de forma estructurada los principales conceptos relacionados con los fundamentos jurídicos, el sentido de los apoyos y la manera en que estos se articulan dentro de la valoración.
+                p.mb-0 Por ello, resulta fundamental conocer la base normativa que respalda la capacidad legal y el sentido de los apoyos dentro de este marco.
+        p.mb-0 A continuación, se presenta una tabla que organiza de forma estructurada los principales conceptos relacionados con los fundamentos jurídicos, el sentido de los apoyos y la manera en que estos se articulan dentro de la valoración.
     
     .tarjeta--BG06.p-4.px-md-5.mb-4
       .tarjeta.tarjeta--FBG06.p-4.my-4(data-aos="fade-left")
