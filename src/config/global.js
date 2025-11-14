@@ -259,7 +259,7 @@ export default {
       referencia:
         'Congreso de Colombia. (2019). Ley 1996 de 2019: <em>Por medio de la cual se establece el régimen para el ejercicio de la capacidad legal de las personas con discapacidad mayores de edad.</em> Diario Oficial No. 51.057.',
       link:
-        'https://www.secretariasenado.gov.co/senado/basedoc/ley_1996_2019.html',
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=99712',
     },
     {
       referencia:
@@ -271,7 +271,7 @@ export default {
       referencia:
         'Consejería Presidencial para la Participación de las Personas con Discapacidad. (2020). <em>Valorar apoyos para tomar decisiones: Lineamientos y protocolo nacional para la valoración de apoyos en el marco de la Ley 1996 de 2019.</em>',
       link:
-        'https://dapre.presidencia.gov.co/AtencionCiudadana/Documents/Lineamientos-Valoraciones-apoyo.pdf',
+        'https://lms-ejrlb.ramajudicial.gov.co/pluginfile.php/64341/mod_resource/content/1/Recurso%20PDF-%20consulta-200710-Lineamiento-protocolo-nacional.pdf',
     },
     {
       referencia:
