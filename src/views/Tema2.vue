@@ -121,7 +121,7 @@
                 img(src='@/assets/curso/temas/tema2/img14.svg', alt='Imagen decorativa')
             .col-lg-11
                 p.mb-0 Por ello, resulta fundamental conocer la base normativa que respalda la capacidad legal y el sentido de los apoyos dentro de este marco.
-        p.mb-0 A continuación, se presenta una tabla que organiza de forma estructurada los principales conceptos relacionados con los fundamentos jurídicos, el sentido de los apoyos y la manera en que estos se articulan dentro de la valoración.
+        p.mb-0 A continuación, se presentan de forma estructurada los principales conceptos relacionados con los fundamentos jurídicos, el sentido de los apoyos y la manera en que estos se articulan dentro de la valoración.
     
     .tarjeta--BG06.p-4.px-md-5.mb-4
       .tarjeta.tarjeta--FBG06.p-4.my-4(data-aos="fade-left")
