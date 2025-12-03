@@ -58,7 +58,7 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Descripción del proceso técnico de la valoración de apoyos',
+        titulo: 'Concepto de la valoración de apoyo',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -159,7 +159,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CFA_XX_DU.pdf',
+        download: 'downloads/CFA_02_33130242_DU.pdf',
       },
       {
         icono: 'fas fa-download',

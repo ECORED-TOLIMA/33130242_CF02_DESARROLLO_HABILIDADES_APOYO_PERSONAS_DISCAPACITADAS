@@ -9,7 +9,7 @@
     p.mb-4 La valoración de apoyos es un instrumento establecido por la Ley 1996 de 2019, contemplado a partir del artículo 9. Aunque constituye un requisito para acceder a la adjudicación judicial de apoyos, no se trata únicamente de un documento o una exigencia normativa. Es, ante todo, un estudio y un informe sobre la autonomía de la persona con discapacidad, en el que se analiza cómo realiza sus actividades cotidianas y cómo se desenvuelve en distintos entornos, como el familiar, laboral, educativo y comunitario.
     .titulo-sexto.color-acento-contenido.offset-0.offset-lg-1(data-aos="fade-left")
       h5 Figura 2.
-      i Concepto de la valoración de apoyo
+      i Diálogo inclusivo entre personas en un contexto de orientación
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10.tarjeta--BG12.tarjeta.p-4

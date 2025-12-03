@@ -9,7 +9,7 @@
     p.mb-4 A continuación, se presenta una descripción del proceso técnico de la valoración de apoyos, que inicialmente le permitirá a la persona facilitadora de esta valoración tener un esquema general del proceso y que posteriormente pueda profundizar un poco más en cada una de sus etapas.
     .titulo-sexto.color-acento-contenido.offset-0.offset-lg-1(data-aos="fade-left")
       h5 Figura 3.
-      i Descripción del proceso técnico de la valoración de apoyos
+      i Representación visual de la colaboración y las redes humanas
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10.tarjeta--BG12.tarjeta.p-4

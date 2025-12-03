@@ -16,12 +16,20 @@
             .col-lg-2.col-6.mb-lg-0.d-none.d-lg-block.mb-4(data-aos="zoom-in")
               figure
                 img.img-fluid(src="@/assets/curso/temas/intro/img2.svg" alt="Imagen decorativa")
-
             .col-lg-10
-              p.text-bold.mb-0 ¿A quién se debe realizar la entrevista en la valoración de apoyos?
-              p.text-bold.mb-0 ¿Por qué ámbitos de la vida de la persona con discapacidad se debe preguntar?
-              p.text-bold.mb-0 ¿Qué aspectos se deben tener en cuenta al momento de llevar a cabo la valoración de apoyos?
-              p.text-bold.mb-0 ¿Qué debe contener el informe de valoración de apoyos?
+              ul.lista-ul
+                li
+                  i.fas.fa-circle
+                  p.text-bold.mb-0 ¿A quién se debe realizar la entrevista en la valoración de apoyos?
+                li
+                  i.fas.fa-circle
+                  p.text-bold.mb-0 ¿Por qué ámbitos de la vida de la persona con discapacidad se debe preguntar?
+                li
+                  i.fas.fa-circle
+                  p.text-bold.mb-0 ¿Qué aspectos se deben tener en cuenta al momento de llevar a cabo la valoración de apoyos?
+                li
+                  i.fas.fa-circle
+                  p.text-bold.mb-0 ¿Qué debe contener el informe de valoración de apoyos?
 
       .col-lg-4.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="zoom-in")
         figure
@@ -35,12 +43,25 @@
         .bloque-texto-c.color-secundario.p-3
           .row.justify-content-center.align-items-center
             .col-lg-9
-              p.text-bold.mb-0 ¿Qué es la valoración de apoyos?
-              p.text-bold.mb-0 ¿Cuál es el procedimiento técnico de la valoración de apoyos?
-              p.text-bold.mb-0 ¿Qué no es la valoración de apoyos?
-              p.text-bold.mb-0 ¿Cómo se realiza la entrevista?
-              p.text-bold.mb-0 ¿Qué preguntas se deben realizar?
-              p.text-bold.mb-0 ¿Cómo se debe realizar el informe de valoración de apoyos?
+              ul.lista-ul
+                li
+                  i.fas.fa-circle
+                  p.text-bold.mb-0 ¿Qué es la valoración de apoyos?
+                li
+                  i.fas.fa-circle
+                  p.text-bold.mb-0 ¿Cuál es el procedimiento técnico de la valoración de apoyos?
+                li
+                  i.fas.fa-circle
+                  p.text-bold.mb-0 ¿Qué no es la valoración de apoyos?
+                li
+                  i.fas.fa-circle
+                  p.text-bold.mb-0 ¿Cómo se realiza la entrevista?
+                li
+                  i.fas.fa-circle
+                  p.text-bold.mb-0 ¿Qué preguntas se deben realizar?
+                li
+                  i.fas.fa-circle
+                  p.text-bold.mb-0 ¿Cómo se debe realizar el informe de valoración de apoyos?
 
             .col-lg-3.col-6.mb-lg-0.d-none.d-lg-block.mb-4(data-aos="zoom-in")
               figure
