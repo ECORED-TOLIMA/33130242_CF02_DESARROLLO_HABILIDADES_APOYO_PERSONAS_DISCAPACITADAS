@@ -123,7 +123,7 @@
               ul.lista-ul
                 li.mb-0
                   i.lista-ul__vineta
-                  p.mb-0 La no formalización de apoyos, existen apoyos que no es obligatorio formalizarlos como por ejemplo los que se presentan de manera natural en la familia y la comunidad
+                  p.mb-0 La no formalización de apoyos, existen apoyos que no es obligatorio formalizarlos como por ejemplo los que se presentan de manera natural en la familia y la comunidad.
                 li.mb-0
                   i.lista-ul__vineta
                   p.mb-0 La formalización de apoyos por medio de un acuerdo de apoyos o una adjudicación judicial de apoyos.
@@ -441,21 +441,21 @@
                   p.text-bold.mb-0 ¿Qué decisiones toma en los siguientes ámbitos?
                 li.mb--44
                   ul
-                    li.mb--44
-                      i.lista-ul__vineta
+                    li.mb--2
+                      i.fas.fa-minus(style="top: 8px;")
                       p.mb-0 Familia, cuidado personal y vivienda.
-                    li.mb--44
-                      i.lista-ul__vineta
+                    li.mb--2
+                      i.fas.fa-minus(style="top: 8px;")
                       p.mb-0 Salud (general, mental, sexual y reproductiva).
-                    li.mb--44
-                      i.lista-ul__vineta
+                    li.mb--2
+                      i.fas.fa-minus(style="top: 8px;")
                       p.mb-0 Patrimonio y manejo del dinero.
-                    li.mb--44
-                      i.lista-ul__vineta
+                    li.mb--2
+                      i.fas.fa-minus(style="top: 8px;")
                       p.mb-0 Trabajo y generación de ingresos.
-                    li.mb--44
-                      i.lista-ul__vineta
-                      p.mb-0 Acceso a la justicia, participación ciudadana y ejercicio del voto.
+                    li.mb--2
+                      i.fas.fa-minus(style="top: 8px;")
+                      p Acceso a la justicia, participación ciudadana y ejercicio del voto.
                 li.mb--44
                   i.lista-ul__vineta
                   p.text-bold.mb-0 ¿Cuál de estos ámbitos considera más importante? ¿Por qué?
@@ -606,34 +606,34 @@
         .bloque-texto-g__texto.p-4
           .lista-ul.mb-0
             li.mb-0
-              i.lista-ul__vineta
+              i.fas.fa-circle(style="top: 8px;")
               p.text-bold.mb-0 ¿Cómo usa el dinero en su vida cotidiana?
             li.mb-0
-              i.lista-ul__vineta
+              i.fas.fa-circle(style="top: 8px;")
               p.text-bold.mb-0 ¿Sabe si tiene propiedades?
             li.mb-0
-              i.lista-ul__vineta
+              i.fas.fa-circle(style="top: 8px;")
               p.text-bold.mb-0 ¿Tiene productos bancarios como cuentas o tarjetas?
             li.mb-0
-              i.lista-ul__vineta
+              i.fas.fa-circle(style="top: 8px;")
               p.text-bold.mb-0 ¿Qué dificultades ha enfrentado en el manejo del dinero?
             li.mb-0
-              i.lista-ul__vineta
+              i.fas.fa-circle(style="top: 8px;")
               p.text-bold.mb-0 ¿Necesita apoyo para saber cuánto dinero tiene disponible?
             li.mb-0
-              i.lista-ul__vineta
+              i.fas.fa-circle(style="top: 8px;")
               p.text-bold.mb-0 ¿Requiere ayuda para distribuir su dinero?
             li.mb-0
-              i.lista-ul__vineta
+              i.fas.fa-circle(style="top: 8px;")
               p.text-bold.mb-0 ¿Necesita apoyo para realizar compras o pagos?
             li.mb-0
-              i.lista-ul__vineta
+              i.fas.fa-circle(style="top: 8px;")
               p.text-bold.mb-0 ¿Considera que necesita ayuda para tomar decisiones sobre sus bienes?
             li.mb-0
-              i.lista-ul__vineta
+              i.fas.fa-circle(style="top: 8px;")
               p.text-bold.mb-0 ¿Requiere apoyo para decidir si desea adquirir productos bancarios?
             li.mb-0
-              i.lista-ul__vineta
+              i.fas.fa-circle(style="top: 8px;")
               p.text-bold.mb-0 ¿Necesita ayuda para cobrar su pensión?
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/temas/icon.svg', alt='Imagen decorativa')

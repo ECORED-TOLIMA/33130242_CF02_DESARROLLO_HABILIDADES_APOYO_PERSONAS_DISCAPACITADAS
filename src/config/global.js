@@ -195,47 +195,47 @@ export default {
     {
       termino: 'Ajustes razonables',
       significado:
-        'se entenderán las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a las personas con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales. (Convención sobre los derechos de las personas con discapacidad, 2006, art. 2)',
+        'se entenderán las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a las personas con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales. (Convención sobre los derechos de las personas con discapacidad, 2006, art. 2).',
     },
     {
       termino: 'Apoyos',
       significado:
-        'los apoyos de los que trata la presente ley son tipos de asistencia que se prestan a la persona con discapacidad para facilitar el ejercicio de su capacidad legal. Esto puede incluir la asistencia en la comunicación, la asistencia para la comprensión de actos jurídicos y sus consecuencias, y la asistencia en la manifestación de la voluntad y preferencias personales. (Ley 1996, 2019, Colombia, art. 3)',
+        'los apoyos de los que trata la presente ley son tipos de asistencia que se prestan a la persona con discapacidad para facilitar el ejercicio de su capacidad legal. Esto puede incluir la asistencia en la comunicación, la asistencia para la comprensión de actos jurídicos y sus consecuencias, y la asistencia en la manifestación de la voluntad y preferencias personales. (Ley 1996, 2019, Colombia, art. 3).',
     },
     {
       termino: 'Autonomía',
       significado:
-        'en todas las actuaciones se respetará el derecho de las personas a autodeterminarse, a tomar sus propias decisiones, a equivocarse, a su independencia y al libre desarrollo de la personalidad conforme a la voluntad, deseos y preferencias propias, siempre y cuando estos no sean contrarios a la Constitución, a la ley y a los reglamentos internos que rigen las entidades públicas y privadas. (Ley 1996, 2019, Colombia, art. 4)',
+        'en todas las actuaciones se respetará el derecho de las personas a autodeterminarse, a tomar sus propias decisiones, a equivocarse, a su independencia y al libre desarrollo de la personalidad conforme a la voluntad, deseos y preferencias propias, siempre y cuando estos no sean contrarios a la Constitución, a la ley y a los reglamentos internos que rigen las entidades públicas y privadas. (Ley 1996, 2019, Colombia, art. 4).',
     },
     {
       termino: 'Barreras',
       significado:
-        'cualquier tipo de obstáculo que impida el ejercicio efectivo de los derechos de las personas con algún tipo de discapacidad. Estas pueden ser actitudinales, cuando conductas, palabras, frases, sentimientos, preconcepciones o estigmas impiden u obstaculizan el acceso en condiciones de igualdad; comunicativas, cuando se presentan obstáculos que impiden o dificultan el acceso a la información, a la consulta, al conocimiento y, en general, el desarrollo en condiciones de igualdad del proceso comunicativo de las personas con discapacidad a través de cualquier medio o modo de comunicación, incluidas las dificultades en la interacción comunicativa; y físicas, cuando existen obstáculos materiales, tangibles o construidos que impiden o dificultan el acceso y el uso de espacios, objetos y servicios de carácter público y privado, en condiciones de igualdad por parte de las personas con discapacidad. (Ley 1618, 2013, Colombia, art. 2)',
+        'cualquier tipo de obstáculo que impida el ejercicio efectivo de los derechos de las personas con algún tipo de discapacidad. Estas pueden ser actitudinales, cuando conductas, palabras, frases, sentimientos, preconcepciones o estigmas impiden u obstaculizan el acceso en condiciones de igualdad; comunicativas, cuando se presentan obstáculos que impiden o dificultan el acceso a la información, a la consulta, al conocimiento y, en general, el desarrollo en condiciones de igualdad del proceso comunicativo de las personas con discapacidad a través de cualquier medio o modo de comunicación, incluidas las dificultades en la interacción comunicativa; y físicas, cuando existen obstáculos materiales, tangibles o construidos que impiden o dificultan el acceso y el uso de espacios, objetos y servicios de carácter público y privado, en condiciones de igualdad por parte de las personas con discapacidad. (Ley 1618, 2013, Colombia, art. 2).',
     },
     {
       termino: 'Capacidad jurídica',
       significado:
-        'según la Corte Constitucional colombiana, es la capacidad de goce y capacidad de ejercicio. La capacidad de goce es la aptitud general que tiene toda persona natural o jurídica para ser sujeto de derechos y obligaciones, y es, sin duda alguna, el atributo esencial de la personalidad jurídica. La capacidad de ejercicio consiste en la habilidad que la ley le reconoce a una persona para poderse obligar por sí misma, sin la intervención o autorización de otra. Implica, entonces, el poder realizar negocios jurídicos e intervenir en el comercio jurídico, sin que para ello requiera acudir a otro. (Corte Constitucional, Sentencia C-983 de 2002, M. P. Dr. Jaime Córdoba Triviño)',
+        'según la Corte Constitucional colombiana, es la capacidad de goce y capacidad de ejercicio. La capacidad de goce es la aptitud general que tiene toda persona natural o jurídica para ser sujeto de derechos y obligaciones, y es, sin duda alguna, el atributo esencial de la personalidad jurídica. La capacidad de ejercicio consiste en la habilidad que la ley le reconoce a una persona para poderse obligar por sí misma, sin la intervención o autorización de otra. Implica, entonces, el poder realizar negocios jurídicos e intervenir en el comercio jurídico, sin que para ello requiera acudir a otro. (Corte Constitucional, Sentencia C-983 de 2002, M. P. Dr. Jaime Córdoba Triviño).',
     },
     {
       termino: 'Derechos Humanos',
       significado:
-        'los derechos humanos son derechos inherentes a todos los seres humanos, sin distinción alguna de raza, sexo, nacionalidad, origen étnico, lengua, religión o cualquier otra condición. Entre los derechos humanos se incluyen el derecho a la vida y a la libertad, a no estar sometido ni a esclavitud ni a torturas, a la libertad de opinión y de expresión, a la educación y al trabajo, entre otros muchos. Estos derechos corresponden a todas las personas, sin discriminación alguna. (ONU, https://www.un.org/es/global-issues/human-rights)',
+        'los derechos humanos son derechos inherentes a todos los seres humanos, sin distinción alguna de raza, sexo, nacionalidad, origen étnico, lengua, religión o cualquier otra condición. Entre los derechos humanos se incluyen el derecho a la vida y a la libertad, a no estar sometido ni a esclavitud ni a torturas, a la libertad de opinión y de expresión, a la educación y al trabajo, entre otros muchos. Estos derechos corresponden a todas las personas, sin discriminación alguna. (ONU, https://www.un.org/es/global-issues/human-rights).',
     },
     {
       termino: 'Discapacidad',
       significado:
-        'es un concepto que evoluciona y que resulta de la interacción entre las personas con deficiencias y las barreras debidas a la actitud y al entorno que evitan su participación plena y efectiva en la sociedad, en igualdad de condiciones con las demás. (Convención sobre los derechos de las personas con discapacidad, 2006, preámbulo)',
+        'es un concepto que evoluciona y que resulta de la interacción entre las personas con deficiencias y las barreras debidas a la actitud y al entorno que evitan su participación plena y efectiva en la sociedad, en igualdad de condiciones con las demás. (Convención sobre los derechos de las personas con discapacidad, 2006, preámbulo).',
     },
     {
       termino: 'Persona facilitadora de la valoración de apoyos',
       significado:
-        'es la persona natural designada por la entidad pública o privada para coordinar y llevar a cabo el proceso de valoración de apoyos de acuerdo con los lineamientos y el protocolo nacional para la realización de la valoración de apoyos expedidos por el ente rector del Sistema Nacional de Discapacidad. (Decreto 487, 2022, Colombia, art. 2.8.2.5.1)',
+        'es la persona natural designada por la entidad pública o privada para coordinar y llevar a cabo el proceso de valoración de apoyos de acuerdo con los lineamientos y el protocolo nacional para la realización de la valoración de apoyos expedidos por el ente rector del Sistema Nacional de Discapacidad. (Decreto 487, 2022, Colombia, art. 2.8.2.5.1).',
     },
     {
       termino: 'Valoración de apoyos',
       significado:
-        'es el proceso que se realiza con base en estándares técnicos, que tiene como finalidad determinar cuáles son los apoyos formales que requiere una persona para tomar decisiones relacionadas con el ejercicio de su capacidad legal. (Ley 1996, 2019, Colombia, art. 3)',
+        'es el proceso que se realiza con base en estándares técnicos, que tiene como finalidad determinar cuáles son los apoyos formales que requiere una persona para tomar decisiones relacionadas con el ejercicio de su capacidad legal. (Ley 1996, 2019, Colombia, art. 3).',
     },
   ],
   referencias: [
@@ -343,7 +343,7 @@ export default {
       autores: [
         {
           nombre: 'Leidy Castillo Pérez',
-          cargo: 'Experto temática',
+          cargo: 'Experta temática',
           centro: 'Universidad de Antioquia ',
         },
         {
@@ -353,12 +353,12 @@ export default {
         },
         {
           nombre: 'Mary Blanca Ángel Franco ',
-          cargo: 'Experto temática',
+          cargo: 'Experta temática',
           centro: 'Universidad de Antioquia ',
         },
         {
           nombre: 'Martha Cecilia Builes Alzate ',
-          cargo: 'Experto temática',
+          cargo: 'Experta temática',
           centro: 'Universidad de Antioquia ',
         },
         {
@@ -397,7 +397,7 @@ export default {
       autores: [
         {
           nombre: 'Lina Marcela Pérez Manchego',
-          cargo: 'Diseñador web',
+          cargo: 'Diseñadora web',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {

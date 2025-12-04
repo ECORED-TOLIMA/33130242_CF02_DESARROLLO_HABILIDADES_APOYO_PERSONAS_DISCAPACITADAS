@@ -16,7 +16,7 @@ export default {
       tema: 'Procedimiento de la valoración de apoyos',
       titulo: 'Cuestionario',
       introduccion:
-        'Identificar la apropiación de los conocimientos sobre el procedimiento de la valoración de apoyos',
+        'Objetivo: identificar la apropiación de los conocimientos sobre el procedimiento de la valoración de apoyos',
       barajarPreguntas: true,
       preguntas: [
         {
@@ -490,10 +490,26 @@ export default {
           imagen: require('@/assets/actividad/imagen5.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Capacidad de goce.', esCorrecta: true },
-            { id: 'b', texto: 'Capacidad de ejercicio.', esCorrecta: true },
-            { id: 'c', texto: 'Capacidad de dependencia.', esCorrecta: false },
-            { id: 'd', texto: 'Capacidad restringida', esCorrecta: false },
+            {
+              id: 'a',
+              texto: 'Capacidad de goce y capacidad de ejercicio.',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto: 'Capacidad de goce y capacidad de dependencia.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Capacidad de ejercicio y capacidad restringida.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Capacidad civil y capacidad administrativa.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
@@ -501,32 +517,18 @@ export default {
         {
           id: 16,
           texto:
-            '¿Cuáles aspectos deben considerarse durante la entrevista en el proceso de valoración para garantizar la autonomía de la persona con discapacidad?',
+            'Durante la entrevista para valorar la autonomía de una persona con discapacidad, es fundamental considerar sus condiciones físicas, sensoriales y psicoemocionales, identificar posibles barreras que limiten sus decisiones y promover un ambiente seguro que facilite el diálogo.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto:
-                'Analizar condiciones físicas, sensoriales y psicoemocionales de la persona con discapacidad en su entorno cotidiano.',
+              texto: 'Verdadero',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto:
-                'Identificar barreras actitudinales, físicas y comunicativas que puedan limitar la toma de decisiones autónomas.',
-              esCorrecta: true,
-            },
-            {
-              id: 'c',
-              texto:
-                'Promover un ambiente seguro y de confianza que facilite el diálogo y la expresión libre de decisiones',
-              esCorrecta: true,
-            },
-            {
-              id: 'd',
-              texto:
-                'Aplicar una lista de verificación rígida que limite la conversación y estandarice el análisis de cada caso.',
+              texto: 'Falso',
               esCorrecta: false,
             },
           ],
@@ -536,33 +538,19 @@ export default {
         {
           id: 17,
           texto:
-            'Algunos aspectos que deben incluirse en la solicitud de valoración de apoyos para una persona con discapacidad, de acuerdo con el procedimiento establecido son:',
+            'En la solicitud de valoración de apoyos para una persona con discapacidad deben incluirse datos personales del solicitante, la motivación de la solicitud, la descripción clara de los actos jurídicos para los cuales se solicita la valoración y la manera en que la persona se comunica en su vida diaria, incluyendo métodos, apoyos y necesidades específicas.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto:
-                'Datos personales de la persona con discapacidad y del solicitante, si aplica, incluyendo identificación, contacto, nivel educativo y estado civil.',
+              texto: 'Verdadero',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto:
-                'Motivación de la solicitud, razones por las cuales se considera que la persona con discapacidad requiere valoración de apoyos para decidir autónomamente.',
-              esCorrecta: true,
-            },
-            {
-              id: 'c',
-              texto:
-                'Descripción clara de los actos jurídicos para los cuales se solicita la valoración de apoyos.',
-              esCorrecta: true,
-            },
-            {
-              id: 'd',
-              texto:
-                'Describir claramente cómo la persona con discapacidad se comunica en su vida diaria, incluyendo métodos, apoyos y necesidades específicas.',
-              esCorrecta: true,
+              texto: 'Falso',
+              esCorrecta: false,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',

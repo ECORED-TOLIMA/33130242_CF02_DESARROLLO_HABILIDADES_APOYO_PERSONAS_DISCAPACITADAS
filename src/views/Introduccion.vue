@@ -43,7 +43,7 @@
         .bloque-texto-c.color-secundario.p-3
           .row.justify-content-center.align-items-center
             .col-lg-9
-              ul.lista-ul
+              ul.lista-ul.mb-0
                 li
                   i.fas.fa-circle
                   p.text-bold.mb-0 ¿Qué es la valoración de apoyos?
