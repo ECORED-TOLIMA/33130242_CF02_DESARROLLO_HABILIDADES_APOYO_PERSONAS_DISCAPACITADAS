@@ -220,7 +220,7 @@ export default {
     {
       termino: 'Derechos Humanos',
       significado:
-        'los derechos humanos son derechos inherentes a todos los seres humanos, sin distinción alguna de raza, sexo, nacionalidad, origen étnico, lengua, religión o cualquier otra condición. Entre los derechos humanos se incluyen el derecho a la vida y a la libertad, a no estar sometido ni a esclavitud ni a torturas, a la libertad de opinión y de expresión, a la educación y al trabajo, entre otros muchos. Estos derechos corresponden a todas las personas, sin discriminación alguna. (ONU, https://www.un.org/es/global-issues/human-rights).',
+        'los derechos humanos son derechos inherentes a todos los seres humanos, sin distinción alguna de raza, sexo, nacionalidad, origen étnico, lengua, religión o cualquier otra condición. Entre los derechos humanos se incluyen el derecho a la vida y a la libertad, a no estar sometido ni a esclavitud ni a torturas, a la libertad de opinión y de expresión, a la educación y al trabajo, entre otros muchos. Estos derechos corresponden a todas las personas, sin discriminación alguna. (ONU, <a target="_blank" href="https://www.un.org/es/global-issues/human-rights">https://www.un.org/es/global-issues/human-rights</a>).',
     },
     {
       termino: 'Discapacidad',

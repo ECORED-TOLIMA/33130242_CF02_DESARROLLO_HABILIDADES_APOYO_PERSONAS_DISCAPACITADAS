@@ -16,7 +16,7 @@ export default {
       tema: 'Procedimiento de la valoración de apoyos',
       titulo: 'Cuestionario',
       introduccion:
-        'Objetivo: identificar la apropiación de los conocimientos sobre el procedimiento de la valoración de apoyos',
+        '<b>Objetivo:</b> identificar la apropiación de los conocimientos sobre el procedimiento de la valoración de apoyos',
       barajarPreguntas: true,
       preguntas: [
         {
